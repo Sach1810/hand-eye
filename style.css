@@ -1,20 +1,33 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: red;
 }
 
+/****** Index.html ******/
+.gameOne {
+  width: 100vw;
+}
 
 .rowGameOne {
-  margin: 0 auto;
-  display: inline;
+  width: 100vw;
+  
 }
 
 .square {
+  background-color: #000;
+  height: 20vw;
+  width: 20vw;
+  display: inline-block;
+}
 
-  background-color: #fff;
-  height: 20vh;
-  width:20vh;
-  margin-top: 50px;
-  display:inline-block;
+/******phone.html******/
+
+#phone {
+  background-color: #000;
+}
+.pSquare {
+  background-color: #000;
+  height: 50vh;
+  width: 33vw;
+  display: inline-block;
 }
