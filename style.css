@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+}
+
+
+.rowGameOne {
+  margin: 0 auto;
+  display: inline;
+}
+
+.square {
+
+  background-color: #fff;
+  height: 20vh;
+  width:20vh;
+  margin-top: 50px;
+  display:inline-block;
+}
